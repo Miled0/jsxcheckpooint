@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+img{
+    height: 200px;
+    width: 500px;
+    margin: 30px;
+    display: block;
+}
+video{
+    margin: 30px;
+}
